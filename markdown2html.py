@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# take argument 2 strings argument is the name of the Markdown file and argument is the output file name
+# script markdown2html.py that takes an argument 2 strings
 """script markdown2html.py that takes an argument 2 strings"""
 import markdown
 import sys
